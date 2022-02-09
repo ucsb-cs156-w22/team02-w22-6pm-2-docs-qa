@@ -1,6 +1,6 @@
 ---
 name: nx-CollegiateSubredditController
 actor: ZeyuanLu
-pull_request_url: https://github.com/ucsb-cs156-w22/team02-w22-6pm-2/pull/28
-pull_request_num: 28
+pull_request_url: https://github.com/ucsb-cs156-w22/team02-w22-6pm-2/pull/30
+pull_request_num: 30
 ---
